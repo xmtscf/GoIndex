@@ -197,7 +197,7 @@ function html(current_drive_order = 0, model = {}) {
     window.current_drive_order = ${current_drive_order};
     window.UI = JSON.parse('${JSON.stringify(uiConfig)}');
   </script>
-  <script src="//cdn.jsdelivr.net/gh/xmtscf/GoIndex@4d1427558a21603e7c7e7dc986a154a9560f4835/app.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/xmtscf/GoIndex@main/app.js"></script>
 </head>
 <body>
 </body>
