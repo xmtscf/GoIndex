@@ -5487,30 +5487,30 @@ if (UI.dark_mode) {
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/main/css/mdui_v2_dark.min.css">'
+    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/mdui_v2_dark.min.css">'
   );
 } else {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/main/css/mdui_v2.min.css">'
+    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/mdui_v2.min.css">'
   );
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/main/css/nexmoe_v2_dark.min.css">'
+    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/nexmoe_v2_dark.min.css">'
   );
 } else {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/main/css/nexmoe_v2.min.css">'
+    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/nexmoe_v2.min.css">'
   );
 }
 document.write(
-  '<script src="//rawcdn.githack.com/xmtscf/GoIndex/main/js/mdui.min.js"></script>'
+  '<script src="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/mdui.min.js"></script>'
 );
 document.write(
-  '<script src="//rawcdn.githack.com/xmtscf/GoIndex/main/js/flv.min.js"></script>'
+  '<script src="http://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/flv.min.js"></script>'
 );
 document.write(
-  '<script src="//rawcdn.githack.com/xmtscf/GoIndex/main/js/DPlayer.min.js"></script>'
+  '<script src="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/DPlayer.min.js"></script>'
 );
 document.write(
   '<script src="//cdn.jsdelivr.net/npm/marked@4.0.0/marked.min.js"></script>'
