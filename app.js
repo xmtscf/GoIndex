@@ -5507,7 +5507,7 @@ document.write(
   '<script src="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/mdui.min.js"></script>'
 );
 document.write(
-  '<script src="http://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/flv.min.js"></script>'
+  '<script src="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/flv.min.js"></script>'
 );
 document.write(
   '<script src="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/DPlayer.min.js"></script>'
