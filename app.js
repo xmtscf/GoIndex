@@ -5487,30 +5487,30 @@ if (UI.dark_mode) {
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/mdui_v2_dark.min.css">'
+    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/mdui_v2_dark.min.css">'
   );
 } else {
   document.write(
-    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/mdui_v2.min.css">'
+    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/mdui_v2.min.css">'
   );
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/nexmoe_v2_dark.min.css">'
+    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/nexmoe_v2_dark.min.css">'
   );
 } else {
   document.write(
-    '<link rel="stylesheet" href="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/nexmoe_v2.min.css">'
+    '<link rel="stylesheet" href="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/css/nexmoe_v2.min.css">'
   );
 }
 document.write(
-  '<script src="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/mdui.min.js"></script>'
+  '<script src="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/mdui.min.js"></script>'
 );
 document.write(
   '<script src="http://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/flv.min.js"></script>'
 );
 document.write(
-  '<script src="https://rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/DPlayer.min.js"></script>'
+  '<script src="//rawcdn.githack.com/xmtscf/GoIndex/23c6f10396f008e8f28373a8555e4bbb3bdf97b7/js/DPlayer.min.js"></script>'
 );
 document.write(
   '<script src="//cdn.jsdelivr.net/npm/marked@4.0.0/marked.min.js"></script>'
@@ -5583,8 +5583,8 @@ function init() {
   if (UI.credits) {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-      <a href="https://github.com/xmtscf/GoIndex" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=xmtscf&amp;message=GoIndex&amp;color=1E89F2&amp;labelColor=374455&amp;logo=github" alt="xmtscf - GoIndex">
+      <a href="//github.com/xmtscf/GoIndex" target="_blank">
+        <img src="//img.shields.io/static/v1?label=xmtscf&amp;message=GoIndex&amp;color=1E89F2&amp;labelColor=374455&amp;logo=github" alt="xmtscf - GoIndex">
       </a>
     </div>
     </div>
